@@ -8,6 +8,7 @@ flask-bootstrap = "*"
 flask-wtf = "*"
 gunicorn = "*"
 flask = "==1.1.2"
+flask-script = "*"
 
 [dev-packages]
 
