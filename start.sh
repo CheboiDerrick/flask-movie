@@ -1,0 +1,3 @@
+ 
+export MOVIE_API_KEY=7ddc7c8a6a7b5f95beefced38dc43326
+export SECRET_KEY=ead4ba544d5d4f75942062f71d3b4720
