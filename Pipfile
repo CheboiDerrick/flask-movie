@@ -6,8 +6,8 @@ name = "pypi"
 [packages]
 flask-bootstrap = "*"
 flask-wtf = "*"
-flask = "*"
 gunicorn = "*"
+flask = "==1.1.2"
 
 [dev-packages]
 
